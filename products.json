@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Fatima 100th Anniversary Rosary",
+    "id": "sticker_logo",
+    "description": "This simple, yet elegant Our Lady of Fatima Anniversary rosary is sure to surprise you by its undiluted purity and grace.",
+    "price": "2.00",
+    "image": "/images/rosary.jpg"
+  },
+  {
+    "title": "Word on Fire Bible - The Gospels",
+    "id": "sticker_logo",
+    "description": " A groundbreaking new series introducing readers to the strange, colorful world of the Bible",
+    "price": "4.00",
+    "image": "/images/bible.jpg"
+  }
+]
